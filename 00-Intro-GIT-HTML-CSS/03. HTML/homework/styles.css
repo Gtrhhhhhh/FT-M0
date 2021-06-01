@@ -1,0 +1,17 @@
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: blueviolet;
+    padding: 50px;
+    border-style: solid;
+    border-color: coral;
+    border-width: 100px;
+
+  }
+  #spanId {
+      font-size: 50px;
+      margin: 50px;
+
+    }
+    img {width: 400px;
+    }
